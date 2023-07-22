@@ -407,6 +407,7 @@ Also join the discord server for GameZone and start collaborating with others ðŸ
 | 302 | [Brain Burst Game](https://github.com/kunjgit/GameZone/tree/main/Games/Brain_Burst_Game)|
 | 303 | [StickTheSticker](https://github.com/kunjgit/GameZone/tree/main/Games/StickTheSticker) |
 | 304 | [Meme_Battle_Game](https://github.com/sahaycodes/GameZone/tree/meme/Games/Meme%20Battle%20Game)|
+
 | 305 | [Match_Color_Game](https://github.com/kunjgit/GameZone/tree/main/Games/Match_Color_Game)|
 | 306 | [Bow_And_Arrow](https://github.com/kunjgit/GameZone/tree/main/Games/Bow_And_Arrow)|
 | 307 | [Beyblade](https://github.com/kunjgit/GameZone/tree/main/Games/Beyblade)|
@@ -434,13 +435,14 @@ Also join the discord server for GameZone and start collaborating with others ðŸ
 | 329 | [Solitaire](https://github.com/kunjgit/GameZone/tree/main/Games/Solitaire-up)|
 | 330 | [Slime Attack](https://github.com/apu52/GameZone/tree/Slime-Attack-game/Games/Slime%20attack%20game)|
 | 331 | [Star_Trek_Trivia](https://github.com/kunjgit/GameZone/tree/starTrek-trivia/Games/Star_Trek_Trivia)|
-| 332 | [Pokemon-Card Game](https://github.com/kunjgit/GameZone/tree/main/Games/Pokemon-Card Game)|
+<!-- | 332 | [Pokemon-Card Game](https://github.com/kunjgit/GameZone/tree/main/Games/Pokemon-Card Game)| -->
 | 333 | [Digit Dilemma](https://github.com/kunjgit/GameZone/tree/main/Games/Digit_Dilemma)|
 | 334 | [Tennis](https://github.com/kunjgit/GameZone/tree/main/Games/Tennis)|
 | 335 | [Illusion](https://github.com/kunjgit/GameZone/tree/main/Games/Illusion)|
 | 336 | [Block Buster](https://github.com/sahaycodes/GameZone/tree/meme/Games/Block_Buster)|
 | 337 | [Guess_The_Ball](https://github.com/kunjgit/GameZone/tree/main/Games/Guess_The_Ball)|
 | 338 | [Doremon Puzzle](https://github.com/kunjgit/GameZone/tree/main/Games/Doremon_Puzzle)|
+| 339 | [01_Fruit-Ninja](https://github.com/kunjgit/GameZone/tree/main/Games/01_Fruit-Ninja)|
 
 
 
